@@ -2,7 +2,7 @@
 
 This is my Java Web Application project for my 2022 Object-oriented Programming with Java class at Peking University.
 
-For a brief summary report of the DBMS, you may refer to "Java大作业说明文档.pdf" (repoted in Chinese language)
+For a brief summary report of the DBMS, you may refer to "Java大作业说明文档.pdf" (reported in Chinese language)
 
 ## A basic introduction for the folders and files:
 
